@@ -1,0 +1,133 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>galendu blog</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+    <!-- <link href="styles/style51.css" rel="stylesheet" /> -->
+    <link rel="stylesheet" href="styles/style.css">
+    <style>
+        /* 一般设置 */
+    </style>
+</head>
+
+<br>
+<header>
+    <!-- 本站所有网页的统一主标题 -->
+    <h1>Galendu Blog</h1>
+</header>
+
+<nav>
+    <!-- 本站统一的导航栏 -->
+    <ul>
+        <li><a href="/">主页</a></li>
+        <!-- 共 n 个导航栏项目，省略…… -->
+    </ul>
+
+    <form>
+        <!-- 搜索栏是站点内导航的一个非线性的方式。 -->
+        <input type="search" name="q" placeholder="要搜索的内容" />
+        <input type="submit" value="搜索" />
+    </form>
+</nav>
+
+<main>
+    <!-- 网页主体内容 -->
+    <article>
+        <div class="container">
+            <div class="field has-addons">
+                <p class="control">
+                    <a class="button is-info">
+                        YouTube视频下载
+                    </a>
+                </p>
+                <p class="control is-expanded">
+                    <input class="input is-info" type="text" id="urlInput" placeholder="请输入YouTube视频链接">
+                </p>
+                <p class="control">
+                    <button class="button is-info" id="downloadBtn" onclick="downloadVideo()">下载</button>
+                </p>
+            </div>
+        </div>
+
+        <hr />
+        <!-- 此处包含一个 article（一篇文章），内容略…… -->
+        <p>
+            第一段内容
+        </p>
+        <hr />
+        <p>
+            第二段内容
+        </p>
+        <hr />
+        <p>
+            <strong>前端学习链接</strong>
+            <br>
+            <li><a href="https://www.w3school.com.cn/h.asp" target="_blank">w3school</a></li>
+            <li><a href="https://antdv.com/components/overview" target="_blank">Ant Design Vue </a></li>
+            <li><a href="https://vant-ui.github.io/vant/#/zh-CN" target="_blank">Vant轻量、可定制的移动端 Vue 组件库</a></li>
+        </p>
+        <hr />
+
+        <p>
+            <strong>k8s学习链接</strong>
+            <br>
+            <li><a href="https://casbin.org/" target="_blank">CASBIN</a></li>
+        </p>
+        <hr />
+
+        <p>
+            <strong>golang学习链接</strong>
+            <br>
+            <li><a href="https://github.com/galendu/go-course" target="_blank">go学习</a></li>
+        </p>
+        <hr />
+        <p>
+            <strong>go视频</strong>
+            <br>
+             </p>
+
+    </article>
+
+
+
+    <aside>
+        <!-- 侧边栏在主内容右侧 -->
+        <h2>相关链接</h2>
+        <div class="content is-big">
+            <ul>
+                <li><a href="#">这是一个超链接</a></li>
+                <li><a href="#">这是一个超链接</a></li>
+                <li><a href="#">这是一个超链接</a></li>
+                <li><a href="#">这是一个超链接</a></li>
+                <!-- 侧边栏有 n 个超链接，略略略…… -->
+            </ul>
+            <div class="container is-max-widescreen">
+                <div class="notification is-info">
+                    This container has a <code>max-width</code> of
+                    <code>$widescreen - $container-offset</code> on fullhd.
+                </div>
+            </div>
+        </div>
+    </aside>
+
+
+</main>
+
+
+<footer class="footer">
+    <div class="content has-text-centered">
+        <p>
+            <strong>Galendu Blog</strong> by <a href="https://github.com/galendu">Galen Du</a>
+            <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 DEED</a>.
+        </p>
+    </div>
+</footer>
+</body>
+<script src="scripts/main.js"></script>
+
+</html>

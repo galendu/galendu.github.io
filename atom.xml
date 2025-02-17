@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Galen Du</title>
+  <icon>https://galendu.github.io/icon.png</icon>
+  
+  <link href="https://galendu.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://galendu.github.io/"/>
+  <updated>2025-02-17T01:51:09.725Z</updated>
+  <id>https://galendu.github.io/</id>
+  
+  <author>
+    <name>Galen Du</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>proxmox-ve使用指南</title>
+    <link href="https://galendu.github.io/posts/7f78562b.html"/>
+    <id>https://galendu.github.io/posts/7f78562b.html</id>
+    <published>2024-09-21T00:12:38.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;proxmox-ve使用指南&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="linux" scheme="https://galendu.github.io/categories/linux/"/>
+    
+    <category term="proxmox ve" scheme="https://galendu.github.io/categories/linux/proxmox-ve/"/>
+    
+    
+    <category term="虚拟化" scheme="https://galendu.github.io/tags/%E8%99%9A%E6%8B%9F%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>terraform学习</title>
+    <link href="https://galendu.github.io/posts/603d1a10.html"/>
+    <id>https://galendu.github.io/posts/603d1a10.html</id>
+    <published>2024-09-03T00:42:47.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;1-概述&quot;&gt;&lt;a href=&quot;#1-概述&quot; class=&quot;headerlink&quot; title=&quot;1 概述&quot;&gt;&lt;/a&gt;1 概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;terraform学习。&lt;br&gt;语法查询&lt;br&gt;&lt;a href=&quot;https://developer.hashicorp.com/terraform/language&quot;&gt;https://developer.hashicorp.com/terraform/language&lt;/a&gt;&lt;br&gt;provider地址&lt;br&gt;&lt;a href=&quot;https://registry.terraform.io/browse/modules&quot;&gt;https://registry.terraform.io/browse/modules&lt;/a&gt;&lt;br&gt;最佳实践  &lt;a href=&quot;https://www.cloudbolt.io/eguides/terraform-best-practices/&quot;&gt;https://www.cloudbolt.io/eguides/terraform-best-practices/&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="devops" scheme="https://galendu.github.io/categories/devops/"/>
+    
+    <category term="terraform" scheme="https://galendu.github.io/categories/devops/terraform/"/>
+    
+    
+    <category term="terraform" scheme="https://galendu.github.io/tags/terraform/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>windows命令行下使用msiexec安装、修复、卸载软件</title>
+    <link href="https://galendu.github.io/posts/49b8b311.html"/>
+    <id>https://galendu.github.io/posts/49b8b311.html</id>
+    <published>2024-09-01T22:14:39.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt; windows命令行下使用msiexec安装、修复、卸载软件。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="Windows" scheme="https://galendu.github.io/categories/Windows/"/>
+    
+    
+    <category term="windows" scheme="https://galendu.github.io/tags/windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>excle使用技巧</title>
+    <link href="https://galendu.github.io/posts/bfc3d4d5.html"/>
+    <id>https://galendu.github.io/posts/bfc3d4d5.html</id>
+    <published>2024-08-24T14:05:08.000Z</published>
+    <updated>2025-02-17T01:51:09.724Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;excle使用技巧&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>生活养花</title>
+    <link href="https://galendu.github.io/posts/8534857.html"/>
+    <id>https://galendu.github.io/posts/8534857.html</id>
+    <published>2024-06-01T20:15:37.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;养花&quot;&gt;&lt;a href=&quot;#养花&quot; class=&quot;headerlink&quot; title=&quot;养花&quot;&gt;&lt;/a&gt;养花&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;本文。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="生活" scheme="https://galendu.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="养花" scheme="https://galendu.github.io/categories/%E7%94%9F%E6%B4%BB/%E5%85%BB%E8%8A%B1/"/>
+    
+    
+    <category term="土" scheme="https://galendu.github.io/tags/%E5%9C%9F/"/>
+    
+    <category term="生活" scheme="https://galendu.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="养花" scheme="https://galendu.github.io/tags/%E5%85%BB%E8%8A%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>嫁接</title>
+    <link href="https://galendu.github.io/posts/b8a1afb.html"/>
+    <id>https://galendu.github.io/posts/b8a1afb.html</id>
+    <published>2024-05-26T11:42:26.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;常用的嫁接方法。&lt;br&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=U2408cZHc8g&quot;&gt;https://www.youtube.com/watch?v=U2408cZHc8g&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="生活" scheme="https://galendu.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="嫁接" scheme="https://galendu.github.io/categories/%E7%94%9F%E6%B4%BB/%E5%AB%81%E6%8E%A5/"/>
+    
+    
+    <category term="嫁接" scheme="https://galendu.github.io/tags/%E5%AB%81%E6%8E%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>扦插</title>
+    <link href="https://galendu.github.io/posts/aa5c17f8.html"/>
+    <id>https://galendu.github.io/posts/aa5c17f8.html</id>
+    <published>2024-05-25T19:54:40.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;扦插技巧以及案例。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="生活" scheme="https://galendu.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="扦插" scheme="https://galendu.github.io/tags/%E6%89%A6%E6%8F%92/"/>
+    
+    <category term="油画" scheme="https://galendu.github.io/tags/%E6%B2%B9%E7%94%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>grpc学习</title>
+    <link href="https://galendu.github.io/posts/f3ee026e.html"/>
+    <id>https://galendu.github.io/posts/f3ee026e.html</id>
+    <published>2024-04-27T14:48:50.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;grpc学习。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+    <category term="grpc" scheme="https://galendu.github.io/tags/grpc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>go基础之go环境准备</title>
+    <link href="https://galendu.github.io/posts/94914928.html"/>
+    <id>https://galendu.github.io/posts/94914928.html</id>
+    <published>2024-04-18T20:18:32.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;GO学习&quot;&gt;&lt;a href=&quot;#GO学习&quot; class=&quot;headerlink&quot; title=&quot;GO学习&quot;&gt;&lt;/a&gt;GO学习&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;go环境准备。&lt;br&gt;&lt;a href=&quot;https://youdianzhishi.com/web/course/1049/3235&quot;&gt;https://youdianzhishi.com/web/course/1049/3235&lt;/a&gt;  &lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>前端实践-密码验证</title>
+    <link href="https://galendu.github.io/posts/a4c6a2c2.html"/>
+    <id>https://galendu.github.io/posts/a4c6a2c2.html</id>
+    <published>2024-04-15T07:28:40.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;前端实践-密码验证&quot;&gt;&lt;a href=&quot;#前端实践-密码验证&quot; class=&quot;headerlink&quot; title=&quot;前端实践-密码验证&quot;&gt;&lt;/a&gt;前端实践-密码验证&lt;/h2&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>前端基础-CSS基础</title>
+    <link href="https://galendu.github.io/posts/a5207128.html"/>
+    <id>https://galendu.github.io/posts/a5207128.html</id>
+    <published>2024-03-22T15:41:37.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;前端基础-CSS基础&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>前端基础-表格</title>
+    <link href="https://galendu.github.io/posts/14414.html"/>
+    <id>https://galendu.github.io/posts/14414.html</id>
+    <published>2024-03-21T11:17:11.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;前端基础-表格。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="前端" scheme="https://galendu.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="web" scheme="https://galendu.github.io/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端基础-文档与网站架构</title>
+    <link href="https://galendu.github.io/posts/54376.html"/>
+    <id>https://galendu.github.io/posts/54376.html</id>
+    <published>2024-03-21T11:13:29.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;前端基础-文档与网站架构&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="前端" scheme="https://galendu.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="web" scheme="https://galendu.github.io/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端入门教程</title>
+    <link href="https://galendu.github.io/posts/38645.html"/>
+    <id>https://galendu.github.io/posts/38645.html</id>
+    <published>2024-03-17T14:37:58.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;前端入门教程&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="前端" scheme="https://galendu.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="web" scheme="https://galendu.github.io/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>shell脚本学习手册</title>
+    <link href="https://galendu.github.io/posts/38836.html"/>
+    <id>https://galendu.github.io/posts/38836.html</id>
+    <published>2024-03-16T21:41:06.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;shell脚本学习手册  &lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="linux" scheme="https://galendu.github.io/categories/linux/"/>
+    
+    <category term="shell" scheme="https://galendu.github.io/categories/linux/shell/"/>
+    
+    
+    <category term="shell" scheme="https://galendu.github.io/tags/shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>运维工程师面试题一</title>
+    <link href="https://galendu.github.io/posts/37965.html"/>
+    <id>https://galendu.github.io/posts/37965.html</id>
+    <published>2024-03-15T20:07:54.000Z</published>
+    <updated>2025-02-17T01:51:09.726Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;运维工程师面试题一  &lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="面试" scheme="https://galendu.github.io/categories/%E9%9D%A2%E8%AF%95/"/>
+    
+    <category term="腾讯" scheme="https://galendu.github.io/categories/%E9%9D%A2%E8%AF%95/%E8%85%BE%E8%AE%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2024年您应该了解的13个Kubernetes工具</title>
+    <link href="https://galendu.github.io/posts/45059.html"/>
+    <id>https://galendu.github.io/posts/45059.html</id>
+    <published>2024-03-04T12:51:40.000Z</published>
+    <updated>2025-02-17T01:51:09.724Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;随着 Kubernetes 不断巩固其作为领先容器编排平台的地位，其周围的生态系统正在迅速发展。 到 2024 年，对于希望简化 Kubernetes 工作流程、增强安全性和优化性能的开发人员和 DevOps 专业人士来说，多种工具已成为必不可少的工具。 以下概述了 2024 年排名前 5 的 Kubernetes 工具，包括使用场景、优点、资源链接和建议的替代方案。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="云原生" scheme="https://galendu.github.io/categories/%E4%BA%91%E5%8E%9F%E7%94%9F/"/>
+    
+    <category term="kubernetes" scheme="https://galendu.github.io/categories/%E4%BA%91%E5%8E%9F%E7%94%9F/kubernetes/"/>
+    
+    
+    <category term="kubernetes" scheme="https://galendu.github.io/tags/kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>善用chatgpt</title>
+    <link href="https://galendu.github.io/posts/25932.html"/>
+    <id>https://galendu.github.io/posts/25932.html</id>
+    <published>2024-02-29T20:14:37.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;利用ChatGPT进行文档分析和处理可以极大地提高论文知识管理的效率和质量。  &lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="工具" scheme="https://galendu.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="ChatGPT" scheme="https://galendu.github.io/tags/ChatGPT/"/>
+    
+    <category term="AI" scheme="https://galendu.github.io/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文档</title>
+    <link href="https://galendu.github.io/posts/42688.html"/>
+    <id>https://galendu.github.io/posts/42688.html</id>
+    <published>2024-02-25T22:09:32.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;测试文档。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="test" scheme="https://galendu.github.io/categories/test/"/>
+    
+    <category term="hexo" scheme="https://galendu.github.io/categories/test/hexo/"/>
+    
+    <category term="icarus" scheme="https://galendu.github.io/categories/test/hexo/icarus/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo 简单操作方式</title>
+    <link href="https://galendu.github.io/posts/5592.html"/>
+    <id>https://galendu.github.io/posts/5592.html</id>
+    <published>2024-01-29T13:41:24.000Z</published>
+    <updated>2025-02-17T01:51:09.725Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;通过git更新博客并对next主题进行优化配置  &lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="服务" scheme="https://galendu.github.io/categories/%E6%9C%8D%E5%8A%A1/"/>
+    
+    <category term="hexo" scheme="https://galendu.github.io/categories/%E6%9C%8D%E5%8A%A1/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://galendu.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
